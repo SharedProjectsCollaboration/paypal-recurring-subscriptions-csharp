@@ -1,0 +1,7 @@
+c:\Users\Krio\Documents\Visual Studio 2010\Projects\PayPalRecurring\PPExample\bin\Debug\PPExample.exe
+c:\Users\Krio\Documents\Visual Studio 2010\Projects\PayPalRecurring\PPExample\bin\Debug\PPExample.pdb
+c:\Users\Krio\Documents\Visual Studio 2010\Projects\PayPalRecurring\PPExample\bin\Debug\PayPalRecurring.dll
+c:\Users\Krio\Documents\Visual Studio 2010\Projects\PayPalRecurring\PPExample\bin\Debug\PayPalRecurring.pdb
+c:\Users\Krio\Documents\Visual Studio 2010\Projects\PayPalRecurring\PPExample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Users\Krio\Documents\Visual Studio 2010\Projects\PayPalRecurring\PPExample\obj\x86\Debug\PPExample.exe
+c:\Users\Krio\Documents\Visual Studio 2010\Projects\PayPalRecurring\PPExample\obj\x86\Debug\PPExample.pdb

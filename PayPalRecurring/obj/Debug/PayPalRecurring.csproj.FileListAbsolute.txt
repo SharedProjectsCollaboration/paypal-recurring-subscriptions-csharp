@@ -1,0 +1,5 @@
+c:\users\krio\documents\visual studio 2010\Projects\PayPalRecurring\PayPalRecurring\obj\Debug\ResolveAssemblyReference.cache
+c:\users\krio\documents\visual studio 2010\Projects\PayPalRecurring\PayPalRecurring\bin\Debug\PayPalRecurring.dll
+c:\users\krio\documents\visual studio 2010\Projects\PayPalRecurring\PayPalRecurring\bin\Debug\PayPalRecurring.pdb
+c:\users\krio\documents\visual studio 2010\Projects\PayPalRecurring\PayPalRecurring\obj\Debug\PayPalRecurring.dll
+c:\users\krio\documents\visual studio 2010\Projects\PayPalRecurring\PayPalRecurring\obj\Debug\PayPalRecurring.pdb
